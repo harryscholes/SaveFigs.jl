@@ -5,7 +5,7 @@
 
 Save Plots.jl figures easily in multiple formats and sizes.
 
-# Installation
+## Installation
 
 ```julia
 ] add https://github.com/harryscholes/SaveFigs.jl
